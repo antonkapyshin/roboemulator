@@ -1,0 +1,18 @@
+prikaz takeEverything
+    ak je tehla
+        zober
+        takeEverything
+    *ak
+*prikaz
+
+prikaz main
+    ak je tehla
+        takeEverything
+        vlavo
+        main
+    inak
+        poloz
+    *ak
+*prikaz
+
+main
